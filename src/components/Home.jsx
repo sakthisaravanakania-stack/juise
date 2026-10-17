@@ -8,7 +8,7 @@ import GrapesImg from './grapes.jpeg'
 import PomegranateImg from './pomegranate.jpeg'
 import IceImg from './ice.jpeg'
 import SugarImg from './sugar.jpeg'
-import LeamonImg from './Leamon.jpeg'
+import LeamonImg from './leamon.jpeg'
 const Home = () => {
   return (
     <div className='header'>
